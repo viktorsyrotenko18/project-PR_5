@@ -1,0 +1,14 @@
+{
+  "name": "pr5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "pug": "^3.0.2"
+  }
+}
